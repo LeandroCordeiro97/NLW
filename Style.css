@@ -17,12 +17,12 @@
     place-items: center;
   }
   
-  main {
+main {
     background: url(images/background.svg) no-repeat center/cover;
     width: 100vw;
-    height: 100vw;
-    min-height:812px;
-  }
+    min-height: 812px;
+    height: 100vh;
+}
   
   .container {
     max-width: 250px;
